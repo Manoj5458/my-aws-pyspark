@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,amount,product_category
+T001,C123,2024-01-15,1200,Electronics
+T002,C124,2024-01-16,800,Clothing
+T003,C125,2024-01-17,1500,Home Appliances
+T004,C123,2024-01-18,2000,Electronics
+T005,C126,2024-01-19,500,Books
+T006,C127,2024-01-20,300,Clothing
+T007,C123,2024-01-21,4000,Furniture
+T008,C125,2024-01-22,200,Books
+T009,C124,2024-01-23,1800,Electronics
+T010,C128,2024-01-24,700,Clothing
